@@ -1,2 +1,2 @@
 # sandbox
-idk learning stuff
+Learning by practice, small experiments and code snippets.
